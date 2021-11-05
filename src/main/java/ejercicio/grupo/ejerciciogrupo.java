@@ -15,5 +15,6 @@ public class ejerciciogrupo {
 	System.out.println("PETTER lucharía con su ultrapoder dentro de la TV, manejaría con su dedo indice a sus enemigos pero solo de cintura hacia abajo.");
 	System.out.println("En el interior de la TV no tiene a nadie que pueda con el");
 	System.out.println("El mando de PETTER solo tenia 1 dia de duracion asi que PETTER intento buscar amigos , para luchar contra el gran miguel");
+	System.out.println("Asi que PETTER recluto a varios nomos que habia en un campo desolado")
 	}
 }
