@@ -34,5 +34,6 @@ public class ejerciciogrupo {
 	System.out.println("Asi que golpeo a miguel con un rayo laser que salio del propio mando ");
 	System.out.println("En ese momento todos saltaron encima del probe Miguel. Dejandolo sin reparación.");
 	System.out.println("Dejo el mando encendido sin darse cuenta y se quedo sin bateria y se dio cuenta de que no tenia el cable de carga");
+	System.out.println("Asi que empezo a utilizar sus armas de airsoft y empezo a ganar la batalla PETTER")
 	}
 }
