@@ -38,7 +38,8 @@ public class ejerciciogrupo {
 	System.out.println("Pero derrepente Miguel al verse acorralado saco la consola de windows");
 	System.out.println("Era viernes y se arrepintió del tiempo dedicado a esta batalla casi perdida.");
 	System.out.println("Se fue al bar a tomarse una cerbeza y a comerse una tapita y asi una detras de otra");
-	System.out.println("Despues de eso todo quedo con los nomos con los nuevos reyes de Andorraland y tenian el control ")
-	System.out.println("Miguel estaba muy frustado por lo que siguio tomando sus tapas y su cervecita")
+	System.out.println("Despues de eso todo quedo con los nomos con los nuevos reyes de Andorraland y tenian el control ");
+	System.out.println("Miguel estaba muy frustado por lo que siguio tomando sus tapas y su cervecita");
+	System.out.println("Al final se hizo el rey del mambo y se fue a su casa a jugar a la ps4");
 	}
 }
