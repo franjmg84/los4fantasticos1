@@ -10,6 +10,8 @@ public class ejerciciogrupo {
 	
 	System.out.println("El personaje antagonico se llama Miguel el programador");
 	System.out.println("Se metio en el mejor videojuego a mundo abierto");
+	System.out.println("PETTER solo tenia control de la tele como defensa contra miguel y sus secuaces")
+	
 	
 	
 	}
