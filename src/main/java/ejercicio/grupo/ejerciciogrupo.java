@@ -17,5 +17,6 @@ public class ejerciciogrupo {
 	System.out.println("El mando de PETTER solo tenia 1 dia de duracion asi que PETTER intento buscar amigos , para luchar contra el gran miguel");
 	System.out.println("Asi que PETTER recluto a varios nomos que habia en un campo desolado");
 	System.out.println("El nomo Lorenzo, Jose el abuelo nomo y fran el nomo DJ avisaron al gran nomo Emilio para que ayudaran a PETTER en su misión");
+	System.out.println("Y cuando ivan a empezar la lucha se apago la TV");
 	}
 }
