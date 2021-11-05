@@ -28,7 +28,7 @@ public class ejerciciogrupo {
 	System.out.println("Pero lo mejor fue cuando Miguel empezo a utilizar la version de lightbot, todo el mundo lo envidiaba");
 	System.out.println("Asi que PETTER y sus amigos empezaron a juntarse con sus aliados nomos que tenian mas integrantes y emopezaron a planear un ataque");
 	System.out.println("El ataque fue muy efectivo porque la mayoria de ellos fueron con sysout");
-	System.out.println("Tanto fue lo que sisaron que dejaron a Miguel sin aras..");
+	System.out.println("Tanto fue lo que sisaron que dejaron a Miguel sin armas..");
 	System.out.println("Al final miguel descubrio que sysout era una gran ayuda");
 	}
 }
