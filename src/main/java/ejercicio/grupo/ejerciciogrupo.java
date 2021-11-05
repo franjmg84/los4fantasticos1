@@ -9,5 +9,8 @@ public class ejerciciogrupo {
 	System.out.println("La tele se lo comio y lo metio en un videojuego")
 	
 	System.out.println("El personaje antagonico se llama Miguel el programador");
+	System.out.println("Cuando sea mayor quiero ser como miguel");
+	
+	
 	}
 }
