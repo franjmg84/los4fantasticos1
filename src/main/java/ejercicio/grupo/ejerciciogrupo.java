@@ -25,5 +25,6 @@ public class ejerciciogrupo {
 	System.out.println("PETTER volvio mucho mas fuerte que nunca ya que trajo a sus mejores amigos con el y todos tenian armas de airsoft y bombas");
 	System.out.println("Miguel muy asustado utilizo el moon como arma letal de codigos binarios");
 	System.out.println("Ayyyy pobre Miguel, no sabía que su versión de Moon era un arma efectiva en su epoca de mozuelo.");
+	System.out.println("Pero lo mejor fue cuando Miguel empezo a utilizar la version de lightbot, todo el mundo lo envidiaba");
 	}
 }
