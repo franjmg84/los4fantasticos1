@@ -32,5 +32,6 @@ public class ejerciciogrupo {
 	System.out.println("Al final miguel descubrio que sysout era una gran ayuda");
 	System.out.println("PETTER saco su arma mas poderosa que era su mando de televison con pilas alcalinas y tenia el mando de la tv a maximo poder")
 	System.out.println("Asi que golpeo a miguel con un rayo laser que salio del propio mando ");
+	System.out.println("En ese momento todos saltaron encima del probe Miguel. Dejandolo sin reparación.");
 	}
 }
