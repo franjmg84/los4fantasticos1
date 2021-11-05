@@ -26,5 +26,6 @@ public class ejerciciogrupo {
 	System.out.println("Miguel muy asustado utilizo el moon como arma letal de codigos binarios");
 	System.out.println("Ayyyy pobre Miguel, no sabía que su versión de Moon era un arma efectiva en su epoca de mozuelo.");
 	System.out.println("Pero lo mejor fue cuando Miguel empezo a utilizar la version de lightbot, todo el mundo lo envidiaba");
+	System.out.println("Asi que PETTER y sus amigos empezaron a juntarse con sus aliados nomos que tenian mas integrantes y emopezaron a planear un ataque");
 	}
 }
