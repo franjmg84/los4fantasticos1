@@ -1,2 +1,2 @@
-# los4fantasticos
- ejercicioGrupo
+# los4Fantasticos
+ ejercicioClase
