@@ -30,5 +30,7 @@ public class ejerciciogrupo {
 	System.out.println("El ataque fue muy efectivo porque la mayoria de ellos fueron con sysout");
 	System.out.println("Tanto fue lo que sisaron que dejaron a Miguel sin armas..");
 	System.out.println("Al final miguel descubrio que sysout era una gran ayuda");
+	System.out.println("PETTER saco su arma mas poderosa que era su mando de televison con pilas alcalinas y tenia el mando de la tv a maximo poder")
+	System.out.println("Asi que golpeo a miguel con un rayo laser que salio del propio mando ");
 	}
 }
