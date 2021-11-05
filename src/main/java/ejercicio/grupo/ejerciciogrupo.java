@@ -19,5 +19,6 @@ public class ejerciciogrupo {
 	System.out.println("El nomo Lorenzo, Jose el abuelo nomo y fran el nomo DJ avisaron al gran nomo Emilio para que ayudaran a PETTER en su misión");
 	System.out.println("Y cuando ivan a empezar la lucha se apago la TV");
 	System.out.println("Había sido Miguel el programador que vio que su reinado en Andorrland podría acabar con PETTER y sus nomos");
+	System.out.println("A si que PETTER volvio a la realidad pero esto no acabaria asi")
 	}
 }
