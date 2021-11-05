@@ -36,5 +36,6 @@ public class ejerciciogrupo {
 	System.out.println("Dejo el mando encendido sin darse cuenta y se quedo sin bateria y se dio cuenta de que no tenia el cable de carga");
 	System.out.println("Asi que empezo a utilizar sus armas de airsoft y empezo a ganar la batalla PETTER");
 	System.out.println("Pero derrepente Miguel al verse acorralado saco la consola de windows");
+	System.out.println("Era viernes y se arrepintió del tiempo dedicado a esta batalla casi perdida.");
 	}
 }
