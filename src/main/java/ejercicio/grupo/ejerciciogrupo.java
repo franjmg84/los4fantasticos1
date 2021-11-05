@@ -22,5 +22,6 @@ public class ejerciciogrupo {
 	System.out.println("A si que PETTER volvio a la realidad pero esto no acabaria asi");
 	System.out.println("El nomo dj monto su equipo y se puso a pinchar y el nomo emilio se desato y se quedo en bolas");
 	System.out.println("Emilio en uno de sus juegos de cadera hizo colisionar su ******** con una roca magica que teletransporto a PETTER de nuevo al guateque");
+	System.out.println("PETTER volvio mucho mas fuerte que nunca ya que trajo a sus mejores amigos con el y todos tenian armas de airsoft y bombas");
 	}
 }
