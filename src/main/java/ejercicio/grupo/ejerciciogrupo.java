@@ -41,6 +41,6 @@ public class ejerciciogrupo {
 	System.out.println("Despues de eso todo quedo con los nomos con los nuevos reyes de Andorraland y tenian el control ");
 	System.out.println("Miguel estaba muy frustado por lo que siguio tomando sus tapas y su cervecita");
 	System.out.println("Al final se hizo el rey del mambo y se fue a su casa a jugar a la ps4");
-	System.out.println("Y miguel volvio a su vida como programador de google y los nomos como reyes de eso y PETTER por fin puede ver netflix de nuevo");
+	System.out.println("Y miguel volvio a su vida como programador de google y los nomos como reyes de eso y PETTER por fin puede ver netflix de nuevo")
 	}
 }
